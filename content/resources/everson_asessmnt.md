@@ -4,6 +4,7 @@ description: This resource contains presentation by guest speaker, Dr. Howard Ev
   on the topic meaningful assessment in AP biology.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-391-concept-centered-teaching-fall-2005/fdb773f8acfaf1b91ba12c504d0a5c96_everson_asessmnt.pdf
 file_type: application/pdf
+parent_uid: 27a5598f-438d-35a0-e563-1445ac9c0563
 resourcetype: Document
 title: everson_asessmnt.pdf
 uid: fdb773f8-acfa-f1b9-1ba1-2c504d0a5c96
